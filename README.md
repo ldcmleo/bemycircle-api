@@ -1,13 +1,15 @@
 # BeMyCircle 🌍🔗
 
-BeMyCircle es una red social minimalista diseñada para conectar a las personas de manera sencilla y organizada. En lugar de un sistema tradicional de amigos, permite a los usuarios clasificar sus conexiones en diferentes tipos de relaciones:
+BeMyCircle es una red social minimalista que te permite conectar con las personas de una manera más organizada y significativa. En lugar de un sistema tradicional de amigos, puedes clasificar tus conexiones como:
 
 - ✅ Amigos 🤝
 - ✅ Colegas 💼
 - ✅ Familiares 👨‍👩‍👧‍👦
-- ✅ Parejas ❤️
+- ✅ Parejas ❤️ (Actual o Expareja)
 
 Cada usuario puede gestionar la privacidad de sus conexiones, eligiendo si quiere que sean públicas o privadas.
+
+🎯 Novedad: ¡Ahora también puedes compartir tus logros personales y profesionales con tus conexiones!
 
 ## ✨ Características
 
@@ -15,6 +17,7 @@ Cada usuario puede gestionar la privacidad de sus conexiones, eligiendo si quier
 - 📄 Gestión de usuarios con UUID
 - 📬 Solicitudes de conexión (pendiente, aceptada, rechazada)
 - 🔗 Conexiones organizadas por tipo de relación
+- 🏆 Publicación de logros personales y profesionales
 - 🛡 Configuración de privacidad personalizada
 - 🏗 Backend en Go con GORM y PostgreSQL
 
@@ -31,6 +34,6 @@ Cada usuario puede gestionar la privacidad de sus conexiones, eligiendo si quier
 - Mejorar la documentación con ejemplos de API
 - Agregar soporte para mensajería o publicaciones
 
-💡 BeMyCircle busca ser una alternativa simple y efectiva para gestionar relaciones sociales en línea sin la complejidad de otras redes.
+💡 BeMyCircle busca ser una alternativa simple y efectiva para gestionar relaciones sociales y compartir tus hitos más importantes sin la complejidad de otras redes.
 
 📢 Contribuciones bienvenidas – Si tienes ideas o sugerencias, ¡abre un issue o un pull request! 🚀
